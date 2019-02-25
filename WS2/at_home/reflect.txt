@@ -1,0 +1,10 @@
+/*
+Name:      <Olga Rudina>
+Student#:  <039949136>
+Section:   <J>
+*/
+
+1. I think the most important thing I learned in this workshop is how to use casting operation. It was good to know how it works on practice.
+2. It is nessessary to add .005 to the value derived when calculating GST owning to round the result to 1.13 and avoid truncation to 1.12 in matrix.
+3. The result of casting operation is conversion one type of data to another. In this particular case - conversion from double to int.
+4. I think we were required to use the modulus operation in this workshop because it is the easiest way to calculate reminder. 
