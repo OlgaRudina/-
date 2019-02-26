@@ -1,0 +1,25 @@
+// Name: Olga Rudina
+// Section:J
+// Workshop:4
+
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+
+The arrays is this program have to be declared to hold 10 elements because we have 10 days in sum. The program has to ask user to input 
+information about minimum 3 days and maximum 10. 
+
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays?
+
+advantages:
+
+- easy way to store the data of the same type
+- easy to manage values
+
+disadvantages: 
+
+- can store data only the same type
+- hard to remove the elements or add the new ones and keep the same order
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+As for me it was a little bit harder than I expected, because I had to use flags on practice, I knew about them only in theory. 
+Also, the loops part in the end of the program was tricky. I tried some combinations to figure out which loop must be inside the other loop.
