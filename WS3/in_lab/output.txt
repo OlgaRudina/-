@@ -1,0 +1,32 @@
+Script started on Mon 12 Feb 2018 11:26:22 AM EST
+orudina@matrix:~/Workshops/WS3/in_lab> ws
+---=== IPC Temperature Analyzer ===---
+Enter the high value for day 1: 8
+
+Enter the low value for day 1: -2
+
+Enter the high value for day 2: 41
+
+Enter the low value for day 2: -4
+
+Incorrect values, temperatures must be in the range -40 to 40, high must be greater than low.
+
+Enter the high value for day 2: 9
+
+Enter the low value for day 2: -4
+
+Enter the high value for day 3: 5
+
+Enter the low value for day 3: 11
+
+Incorrect values, temperatures must be in the range -40 to 40, high must be greater than low.
+
+Enter the high value for day 3: 11
+
+Enter the low value for day 3: 5
+
+The average (mean) temperature was: 4.50
+orudina@matrix:~/Workshops/WS3/in_lab> exti[[[Kit
+exit
+
+Script done on Mon 12 Feb 2018 11:26:53 AM EST

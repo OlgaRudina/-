@@ -1,0 +1,10 @@
+1) Iteration constructs:
+               a) while
+               b) do while
+               c) for
+
+2) The difference between a "while" and a "do while" loop is the place of condition. In the first case the condition
+will be in the beginning of the loop. In the second case the condition will be in the end of the loop. 
+
+3)By onditional expression is meant the choice between 2 sub-expressions. If the condition is true the choice will be the operand 
+between "?" and ":". If it is false choice will be the operand after ":".
