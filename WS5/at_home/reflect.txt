@@ -1,0 +1,12 @@
+// Name: Olga Rudina
+// Student Number:
+// Section:J
+// Workshop:4
+
+1. Advantages of using an array of structs:
+
+a) Structure can contain data of different types;
+b) It's easier to manage, quicker access to members of structure.
+
+2. The preferred method of declaring a struct data type is in header file because the source code could be stored in more than 1 file.
+The header file allows to put the structure inside each sourse code file simultaniously. 
