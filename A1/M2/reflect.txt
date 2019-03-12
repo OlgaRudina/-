@@ -1,0 +1,19 @@
+/* -------------------------------------------
+Name: Olga Rudina
+Student number: 039949136
+Email:
+Section: J
+Date:
+----------------------------------------------
+Assignment: 1
+Milestone:  4
+---------------------------------------------- */
+
+1. I think this assignment has asked us to code a struct, Contact, that holds three other structs 
+as data members because it makes easier to manage logically related types of data. It looks more compact and allows to store multiple contacts.  
+
+2. The most difficult part of this assignment was the stuctures and pointers part because
+there were too many members and it was difficult to track what where to put.  
+
+3. It took around 5 hours to complete Milestone 4 part.   
+
