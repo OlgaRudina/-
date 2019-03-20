@@ -1,0 +1,20 @@
+/* -------------------------------------------
+Name: Olga Rudina
+Student number: 039949136
+Email:
+Section:J
+Date:
+----------------------------------------------
+Assignment: 2
+Milestone:  4
+---------------------------------------------- */
+
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your
+source code with respect to overall maintenance and readability.
+
+It helps to avoid adding extra lines of code because we use it many times in other functions. 
+Also, it's easy to edit - no need to walkthroug all sourse code. 
+
+4. What did you learn most from doing Assignment 2?
+I learned how to use lots of functions. However, I feel, that I need more practice because I have to get used to
+track lots of variables.

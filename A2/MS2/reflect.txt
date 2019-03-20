@@ -1,0 +1,17 @@
+/* -------------------------------------------
+Name: Olga Rudina
+Student number: 039949136
+Email:
+Section:J
+Date:
+----------------------------------------------
+Assignment: 2
+Milestone:  2
+---------------------------------------------- */
+
+1. Function is subprogram which can be called by main program anytime. It contains code blocks with local scope variables. 
+Function makes program more compact and modular. 
+It is easier replace a function (module) than apply all necessary changes to whole program which can contain thousands lines of code. 
+Also, when you using functions there is no need to write the same code again and again, you can call a function (1 line of code) wherever you want. 
+
+2. I think the “helper” functions are in different module because it makes possible to copy them in other program and use them there as well.
