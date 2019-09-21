@@ -41,7 +41,8 @@ WS5: Employee Data Application
 A1:
 A Contact structure that contains other structures representing the contact Name, Address and phone Numbers
 
-A2: A2 uses A1 and focuses on a “Contact Management System”. This assignment continues to emphasize modularization by compartmentalizing 
+A2: 
+A2 uses A1 and focuses on a “Contact Management System”. This assignment continues to emphasize modularization by compartmentalizing 
 highly cohesive and tightly coupled tasks into modules (*.h and *.c files). 
 This strategy will reduce redundant coding throughout all parts of the application.
 
